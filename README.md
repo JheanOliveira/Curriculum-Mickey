@@ -1,2 +1,2 @@
 # My Code
-Página para alocação de códigos de diversas linguagens.
+Exercício: Construção de Curriculum em HTML
